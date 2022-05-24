@@ -10,9 +10,7 @@ spring:
     show-sql: true
     hibernate:
        ddl-auto: update  
-       
-  application:
-    name: MicroService-1   
+
 
 server:
   port: 5050
