@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Book_Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: SaiVishnuvardhan.P
+Implementation-Vendor-Id: com.example
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://spring.io/projects/spring-boot/Book_Servic
+ e
+Created-By: Maven Integration for Eclipse
+
