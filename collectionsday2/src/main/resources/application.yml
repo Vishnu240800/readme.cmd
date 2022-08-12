@@ -1,0 +1,8 @@
+server:
+  port: 4030
+
+spring:
+  application:
+    name: Gowshick-Sathiya-Yovel-Vishnu
+  config:
+    import: configserver:http://localhost:8888
