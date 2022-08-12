@@ -1,0 +1,13 @@
+server:
+  port: 4030
+
+spring:
+  application:
+    name: microservice-one
+  config:
+    import: configserver:http://localhost:8888 
+
+  
+
+  
+  
